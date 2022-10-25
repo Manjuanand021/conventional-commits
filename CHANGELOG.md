@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com-personal/Manjuanand021/conventional-commits/compare/v2.3.1...v3.0.0) (2022-10-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* updated message
+
+### Features
+
+* updated message ([d7d6b9f](https://github.com-personal/Manjuanand021/conventional-commits/commit/d7d6b9f970df757fe42f35238543d1ba3a863133))
+
 ### [2.3.1](https://github.com-personal/Manjuanand021/conventional-commits/compare/v2.3.0...v2.3.1) (2022-10-25)
 
 ## [2.3.0](https://github.com-personal/Manjuanand021/conventional-commits/compare/v2.2.0...v2.3.0) (2022-10-25)
