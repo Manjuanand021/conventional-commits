@@ -1,3 +1,5 @@
-export default function print(prefix, msg) {
-    console.log(`${prefix}, ${msg}`);
+const PREFIX = 'Hello everyone';
+
+export default function print(msg) {
+    console.log(`${PREFIX}, ${msg}`);
 }
