@@ -1,6 +1,6 @@
 {
   "name": "conventional-commits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "repository": "git@github.com-personal:Manjuanand021/conventional-commits.git",
