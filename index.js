@@ -1,5 +1,5 @@
-function print(msg) {
-    console.log(`Hello everyone. ${msg}`);
+function print(prefix, msg) {
+    console.log(`${prefix}, ${msg}`);
 }
 
-print('Conventional commit message demo.');
+print('Hello everyone', 'Conventional commit message demo.');
