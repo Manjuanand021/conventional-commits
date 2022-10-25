@@ -1,5 +1,3 @@
-function print(prefix, msg) {
-    console.log(`${prefix}, ${msg}`);
-}
+import print from './print.js';
 
 print('Hello everyone', 'Conventional commit message demo.');
