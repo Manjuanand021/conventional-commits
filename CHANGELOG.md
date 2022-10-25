@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com-personal/Manjuanand021/conventional-commits/compare/v2.1.0...v2.2.0) (2022-10-25)
+
+
+### Features
+
+* **!:** hard coded the prefix ([2c24131](https://github.com-personal/Manjuanand021/conventional-commits/commit/2c24131fb7402d9dcf86d370a528d54e256fe205))
+
 ## [2.1.0](https://github.com-personal/Manjuanand021/conventional-commits/compare/v2.0.3...v2.1.0) (2022-10-25)
 
 
